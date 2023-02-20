@@ -4,7 +4,7 @@ const max = Math.max(13, 82, 99, 123);
 const numbers = [12, 32, 923, 1234, 1235, 12];
 
 const largest = Math.max(numbers);
-// console.log(Math.max(...numbers));
+console.log(Math.max(...numbers));
 // console.log(numbers);
 // console.log(...numbers);
 // console.log(largest);
